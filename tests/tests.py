@@ -31,7 +31,7 @@ def main():
     print_box(rows=[f'             {COLORS.BOLD}{COLORS.CYAN}Print{COLORS.END} '
                     f'{COLORS.ITALIC}{COLORS.PURPLE}Box-Style{COLORS.END} '
                     f'{COLORS.BLUE}{COLORS.UNDERLINE}Beautifully{COLORS.END}',
-                    f'libconsole provides a beautiful outputs in console :3',
+                    f'libconsole provides beautiful outputs in console :3',
                     f'also it supports ascii-colors ₍₍ (ง ˙ω˙)ว ⁾⁾',
                     f'',
                     f'{COLORS.BOLD}Usage:{COLORS.END}',
@@ -41,7 +41,7 @@ def main():
                     f'{COLORS.BLUE}>>>{COLORS.END} libconsole.print_box(rows=["Hello"])',
                     f'╭─────────╮',
                     f'│  Hello  │',
-                    f'╰─────────╯'], pad=10)
+                    f'╰─────────╯'], pad=11)
 
 
 if __name__ == '__main__':
