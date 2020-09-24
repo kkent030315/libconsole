@@ -1,8 +1,10 @@
 
-<div style="text-align:center"><img src="image.png" width="650"></div>
+<div style="text-align:center"><img src="https://github.com/kkent030315/libconsole/blob/master/image.png" width="650"></div>
 
 # libconsole
 ✨ Beautiful printouts in Python
+
+https://pypi.org/project/libconsole/
 
 # Usage
 
