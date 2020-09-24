@@ -1,5 +1,5 @@
 
-<div style="text-align:center"><img src="libconsole.png" width="650"></div>
+<div style="text-align:center"><img src="image.png" width="650"></div>
 
 # libconsole
 ✨ Beautiful printouts in Python
